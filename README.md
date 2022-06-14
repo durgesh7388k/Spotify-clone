@@ -1,7 +1,7 @@
 # Spotify-clone
-A clone of spotify is developed using html, css and javascript.
-The website is completely responsive which can run smoothly on any type of cell phones.
-It is a very well structured website with beautiful User Interface.
+A clone of Spotify is developed using HTML, CSS and JavaScript. 
+The website is completely responsive which can run smoothly on any type of cell phones. 
+It is a very well-structured website with beautiful User Interface.
 We can play any song by just clicking on the play button and move to next or previous song by clicking at the next or previous button respectively, present below the Progress Bar.
 we can also forward the song by any amount by just clicking on the Progress Bar.
 
